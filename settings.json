@@ -1,0 +1,35 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "codic.ACCESS_TOKEN": "gz2x4SeZfxbyg1gkja7kqAbkDbmYCYxXAS",
+    "codic.case": "camelCase",
+    "editor.inlineSuggest.enabled": true,
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.defaultLocation": "editor",
+    "editor.fontSize": 18,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "python.defaultInterpreterPath": "C:/Users/syu/.pyenv/pyenv-win/versions/3.10.5/python3.10.exe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.analysis.logLevel": "Warning",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.openRepositoryInParentFolders": "never",
+    "omnisharp.dotnetPath": "C:/Program Files/dotnet",
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "resmon.disk.format": "PercentUsed",
+    "resmon.updatefrequencyms": 1000,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "csharp.inlayHints.enableInlayHintsForTypes": true,
+    "cmake.configureOnOpen": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port": 0,
+    "liveServer.settings.useLocalIp": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    }
+}
